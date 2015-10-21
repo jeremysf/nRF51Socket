@@ -1,3 +1,6 @@
 [submodule "vendor/hardware/Eagle-Libraries"]
 	path = vendor/hardware/Eagle-Libraries
 	url = https://github.com/jeremysf/Eagle-Libraries.git
+[submodule "vendor/hardware/SparkFun-Eagle-Libraries"]
+	path = vendor/hardware/SparkFun-Eagle-Libraries
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
