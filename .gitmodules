@@ -1,0 +1,3 @@
+[submodule "vendor/hardware/Eagle-Libraries"]
+	path = vendor/hardware/Eagle-Libraries
+	url = https://github.com/jeremysf/Eagle-Libraries.git
