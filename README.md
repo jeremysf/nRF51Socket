@@ -14,4 +14,4 @@ The socket is available on Amazon.com and Ebay.com for about $100 it's a QFN-48(
 (https://pbs.twimg.com/media/CR9HuqqVAAADbZV.jpg)
 
 ![alt text]
-(https://pbs.twimg.com/media/CR9HuqqVAAADbZV.jpg)
+(https://pbs.twimg.com/media/CR9HuqIVAAAAnUr.jpg)
